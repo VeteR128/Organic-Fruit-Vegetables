@@ -1,0 +1,9 @@
+.items__button {
+  padding: 11px 14px;
+  color: white;
+  border-radius: 68px;
+  border: none;
+  background: #09a66d;
+  font-size: 2.5rem;
+  max-height: 68px;
+}

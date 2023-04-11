@@ -1,0 +1,8 @@
+.about__vector {
+  max-width: 944px;
+  width: 100%;
+  position: absolute;
+  right: 35px;
+  top: -175px;
+  overflow: hidden;
+}

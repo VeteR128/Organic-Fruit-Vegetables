@@ -1,0 +1,14 @@
+.header__registration {
+  font-family: Arial, Helvetica, sans-serif;
+  max-height: 40px;
+  background: #09a66d;
+  border-radius: 8px;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 111%;
+  padding: 10px 23px;
+  border: none;
+  white-space: nowrap;
+}

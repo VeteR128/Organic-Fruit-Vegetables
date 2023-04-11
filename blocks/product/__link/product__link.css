@@ -1,0 +1,6 @@
+.product__link {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 453px;
+  z-index: 5;
+}

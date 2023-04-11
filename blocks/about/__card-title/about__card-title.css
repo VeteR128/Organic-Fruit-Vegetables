@@ -1,0 +1,10 @@
+.about__card-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 150%;
+  margin-top: 0;
+  margin-bottom: 8px;
+
+  color: #222222;
+}

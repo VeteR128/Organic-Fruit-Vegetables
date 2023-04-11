@@ -1,0 +1,6 @@
+.product__card-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 48px;
+}

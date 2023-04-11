@@ -1,0 +1,9 @@
+.product__img-lips {
+  max-width: 500px;
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: -37px;
+  left: -60px;
+  overflow: hidden;
+}

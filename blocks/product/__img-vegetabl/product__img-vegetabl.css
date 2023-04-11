@@ -1,0 +1,8 @@
+.product__img-vegetabl {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  position: absolute;
+  left: 120px;
+  bottom: 32px;
+}

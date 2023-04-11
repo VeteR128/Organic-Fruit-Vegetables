@@ -1,0 +1,12 @@
+.header__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 133%;
+  margin-right: 40px;
+  text-decoration: none;
+  color: #222222;
+}
+.header__link:last-child {
+  margin-right: 0;
+}

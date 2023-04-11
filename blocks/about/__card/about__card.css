@@ -1,0 +1,14 @@
+.about__card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 60px;
+  padding: 0 59px;
+}
+.about__card:nth-child(2) {
+  padding: 41px 59px;
+}
+
+.about__card:last-child {
+  margin-bottom: 146px;
+}

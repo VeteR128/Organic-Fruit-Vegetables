@@ -1,0 +1,12 @@
+.product__subtitle {
+  max-width: 636px;
+  width: 100%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 166%;
+  text-align: center;
+  color: #555555;
+  margin: 0 0 40px;
+  z-index: 5;
+}

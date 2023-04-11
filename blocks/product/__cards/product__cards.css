@@ -1,0 +1,6 @@
+.product__cards {
+  position: absolute;
+  right: 100px;
+  bottom: 50px;
+  z-index: 4;
+}

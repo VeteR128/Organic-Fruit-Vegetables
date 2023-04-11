@@ -1,0 +1,10 @@
+.product__card {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.product__card:last-child {
+  margin-bottom: 0;
+}
