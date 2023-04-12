@@ -4,7 +4,19 @@
   flex-direction: row;
   align-items: center;
   margin-bottom: 30px;
+  padding-right: 30px;
 }
 .product__card:last-child {
   margin-bottom: 0;
+}
+@media screen and (max-width: 1055px) {
+  .product__card {
+    margin-right: 15px;
+    max-width: 241px;
+    width: 35%;
+  }
+  .product__card:last-child {
+    margin-bottom: 30px;
+    margin-right: 0px;
+  }
 }

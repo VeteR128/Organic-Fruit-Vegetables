@@ -1,7 +1,7 @@
 .product__title {
   font-style: normal;
   font-weight: 700;
-  font-size: 4.375rem;
+  font-size: calc(35px + 35 * (100vw / 1440));
   line-height: 128%;
   margin-top: 92px;
   margin-bottom: 20px;

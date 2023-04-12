@@ -1,0 +1,9 @@
+.order__images {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin: 185px 13% 0 14%;
+  max-width: 194px;
+  width: 50%;
+  max-height: 420px;
+}

@@ -1,7 +1,7 @@
 .about__title {
   font-style: normal;
   font-weight: 700;
-  font-size: 4.375rem;
+  font-size: calc(25px + 45 * (100vw / 1440));
   line-height: 129%;
 
   color: #222222;

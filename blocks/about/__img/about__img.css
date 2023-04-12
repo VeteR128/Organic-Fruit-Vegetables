@@ -7,3 +7,9 @@
   align-items: center;
   margin-right: 7%;
 }
+@media screen and (max-width: 1055px) {
+  .about__img {
+    margin: 0;
+    margin-bottom: 100px;
+  }
+}

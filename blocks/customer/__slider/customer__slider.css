@@ -1,0 +1,4 @@
+.customer__slider {
+  display: flex;
+  flex-direction: row;
+}

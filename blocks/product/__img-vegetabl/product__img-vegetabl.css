@@ -1,8 +1,13 @@
 .product__img-vegetabl {
-  display: block;
   max-width: 600px;
-  width: 100%;
+  width: 45%;
   position: absolute;
   left: 120px;
   bottom: 32px;
+}
+@media screen and (max-width: 1055px) {
+  .product__img-vegetabl {
+    position: relative;
+    left: 0px;
+  }
 }

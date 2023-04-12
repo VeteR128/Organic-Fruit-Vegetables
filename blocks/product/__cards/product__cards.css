@@ -4,3 +4,14 @@
   bottom: 50px;
   z-index: 4;
 }
+@media screen and (max-width: 1055px) {
+  .product__cards {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    right: 0px;
+    bottom: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}

@@ -1,0 +1,9 @@
+.customer__subtitle {
+  margin: 0 0 40px 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: calc(12px + 6 * (100vw / 1440));
+  line-height: 167%;
+
+  color: #555555;
+}

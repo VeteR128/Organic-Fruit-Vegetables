@@ -1,0 +1,6 @@
+.order__link {
+  margin-right: 24px;
+}
+.order__link:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,12 @@
+.order__button {
+  background: #f3fbf8;
+  border-radius: 50px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 100%;
+
+  color: #333333;
+  padding: 11px 24px;
+  border: none;
+}

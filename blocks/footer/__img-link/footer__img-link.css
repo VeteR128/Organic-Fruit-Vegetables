@@ -1,0 +1,6 @@
+.footer__img-link {
+  margin-right: 50px;
+}
+.footer__img-link:last-child {
+  margin-right: 0;
+}

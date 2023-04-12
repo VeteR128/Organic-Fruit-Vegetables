@@ -1,0 +1,9 @@
+.order__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: calc(25px + 45 * (100vw / 1440));
+  line-height: 129%;
+
+  color: #222222;
+  margin: 16px 0 20px;
+}

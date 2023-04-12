@@ -1,0 +1,12 @@
+.customer__slider-button {
+  padding: 18px 23px;
+  color: white;
+  border-radius: 90px;
+  border: none;
+  background: #09a66d;
+  font-size: 1rem;
+  margin-right: 26px;
+}
+.customer__slider-button:last-child {
+  margin-right: 0;
+}

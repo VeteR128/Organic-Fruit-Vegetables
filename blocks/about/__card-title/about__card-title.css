@@ -1,7 +1,7 @@
 .about__card-title {
   font-style: normal;
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: calc(14px + 6 * (100vw / 1440));
   line-height: 150%;
   margin-top: 0;
   margin-bottom: 8px;

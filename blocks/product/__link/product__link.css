@@ -4,3 +4,8 @@
   padding-bottom: 453px;
   z-index: 5;
 }
+@media screen and (max-width: 1055px) {
+  .product__link {
+    padding-bottom: 45px;
+  }
+}

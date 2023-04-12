@@ -1,3 +1,5 @@
 .about__img-bg {
   position: absolute;
+  max-width: 373px;
+  width: 40%;
 }

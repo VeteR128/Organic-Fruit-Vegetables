@@ -1,0 +1,7 @@
+.order__img-back {
+  position: absolute;
+  left: 20px;
+  top: -30px;
+  max-width: 241px;
+  width: 150%;
+}

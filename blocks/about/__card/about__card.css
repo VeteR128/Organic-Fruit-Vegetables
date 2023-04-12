@@ -12,3 +12,9 @@
 .about__card:last-child {
   margin-bottom: 146px;
 }
+@media screen and (max-width: 1055px) {
+  .about__card:last-child {
+    margin-bottom: 50px;
+    max-width: 500px;
+  }
+}

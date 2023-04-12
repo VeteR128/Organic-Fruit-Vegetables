@@ -1,7 +1,7 @@
 .about__card-subtitle {
   font-style: normal;
   font-weight: 400;
-  font-size: 0.875rem;
+  font-size: calc(10px + 4 * (100vw / 1440));
   line-height: 143%;
   margin: 0;
   color: #555555;

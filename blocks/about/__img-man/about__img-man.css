@@ -1,0 +1,9 @@
+.about__img-man {
+  max-width: 421px;
+  width: 100%;
+}
+@media screen and (max-width: 1055px) {
+  .about__img-man {
+    width: 70%;
+  }
+}
