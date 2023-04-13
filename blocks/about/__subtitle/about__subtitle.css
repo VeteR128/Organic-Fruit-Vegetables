@@ -1,6 +1,6 @@
 .about__subtitle {
   max-width: 637px;
-  width: 100%;
+  width: 90%;
   font-style: normal;
   font-weight: 400;
   font-size: calc(12px + 6 * (100vw / 1440));
@@ -9,4 +9,9 @@
   color: #555555;
   margin: 0;
   margin-left: 6.94444444%;
+}
+@media screen and (max-width: 1000px) {
+  .about__subtitle {
+    font-size: calc(9px + 9 * (100vw / 1440));
+  }
 }

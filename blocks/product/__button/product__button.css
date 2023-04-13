@@ -6,3 +6,10 @@
   background: #09a66d;
   font-size: 2.5rem;
 }
+@media screen and (max-width: 600px) {
+  .product__button {
+    padding: 6px 18px;
+    font-size: 1.5rem;
+    max-height: 60px;
+  }
+}

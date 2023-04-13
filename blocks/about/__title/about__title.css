@@ -5,5 +5,10 @@
   line-height: 129%;
 
   color: #222222;
-  margin: 140px 0 20px 6.94444444%;
+  margin: 10% 0 20px 6.94444444%;
+}
+@media screen and (max-width: 1000px) {
+  .about__title {
+    font-size: calc(15px + 55 * (100vw / 1440));
+  }
 }

@@ -15,8 +15,19 @@
     max-width: 241px;
     width: 35%;
   }
+  .product__card:nth-child(2) {
+    margin-right: 0;
+  }
   .product__card:last-child {
     margin-bottom: 30px;
     margin-right: 0px;
+  }
+}
+@media screen and (max-width: 684px) {
+  .product__card {
+    padding-right: 15px;
+  }
+  .product__card:last-child {
+    padding-right: 0px;
   }
 }

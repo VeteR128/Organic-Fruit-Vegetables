@@ -3,3 +3,11 @@
   width: 60%;
   margin-right: 0;
 }
+@media screen and (max-width: 660px) {
+  .items__lips {
+    position: absolute;
+    width: 40%;
+    top: -30px;
+    left: 0;
+  }
+}

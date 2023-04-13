@@ -1,7 +1,14 @@
 .customer__img {
   position: relative;
   margin-top: 137px;
-  margin-right: 100px;
+  margin-right: 7%;
   max-width: 448px;
   width: 100%;
+}
+@media screen and (max-width: 960px) {
+  .customer__img {
+    margin-right: 0;
+    width: 45%;
+    margin-top: 8%;
+  }
 }

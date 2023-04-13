@@ -1,7 +1,7 @@
 .footer__subtitle {
   font-style: normal;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: calc(12px + 12 * (100vw / 1440));
   line-height: 129%;
 
   color: #222222;

@@ -1,5 +1,13 @@
 .header__buttons {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 60px 60px 1fr;
   align-items: center;
+}
+
+@media screen and (max-width: 865px) {
+  .header__buttons {
+    order: 1;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }

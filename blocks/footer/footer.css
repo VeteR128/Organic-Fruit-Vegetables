@@ -6,4 +6,10 @@
   background: #fcfefd;
   padding-top: 66px;
   padding-bottom: 118px;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 876px) {
+  .footer {
+    justify-content: space-around;
+  }
 }

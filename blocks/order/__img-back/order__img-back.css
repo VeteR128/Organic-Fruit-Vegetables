@@ -5,3 +5,14 @@
   max-width: 241px;
   width: 150%;
 }
+@media screen and (max-width: 700px) {
+  .order__img-back {
+    left: 10px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .order__img-back {
+    left: 5px;
+    top: -15px;
+  }
+}

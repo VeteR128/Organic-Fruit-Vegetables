@@ -1,3 +1,8 @@
 .customer__slider-container {
-  margin-right: 124px;
+  margin-right: 8%;
+}
+@media screen and (max-width: 420px) {
+  .customer__slider-container {
+    margin-right: 0;
+  }
 }

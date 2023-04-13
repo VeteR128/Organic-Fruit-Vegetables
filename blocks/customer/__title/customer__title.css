@@ -1,9 +1,14 @@
 .customer__title {
-  margin: 96px 0 30px;
+  margin: 11.5% 0 30px;
   font-style: normal;
   font-weight: 700;
   font-size: calc(25px + 45 * (100vw / 1440));
   line-height: 129%;
 
   color: #222222;
+}
+@media screen and (max-width: 960px) {
+  .customer__title {
+    font-size: calc(15px + 55 * (100vw / 1440));
+  }
 }

@@ -4,6 +4,26 @@
 }
 @media screen and (max-width: 1055px) {
   .about__img-man {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 955px) {
+  .about__img-man {
     width: 70%;
+  }
+}
+@media screen and (max-width: 855px) {
+  .about__img-man {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 555px) {
+  .about__img-man {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 375px) {
+  .about__img-man {
+    width: 40%;
   }
 }

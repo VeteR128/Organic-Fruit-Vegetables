@@ -10,3 +10,8 @@
   padding: 11px 24px;
   border: none;
 }
+@media screen and (max-width: 960px) {
+  .order__button {
+    font-size: calc(9px + 9 * (100vw / 1440));
+  }
+}

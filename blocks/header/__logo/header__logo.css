@@ -1,2 +1,14 @@
 .header__logo {
 }
+@media screen and (max-width: 880px) {
+  .header__logo {
+    order: 2;
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .header__logo {
+    order: 1;
+    margin-bottom: 15px;
+  }
+}
